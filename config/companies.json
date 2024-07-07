@@ -1,8 +1,10 @@
 {
   "google": {
-    "logo": "https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+    "logo": "https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png",
+    "description" "Google is a global technology company that specializes in Internet-related services and products, including search engines, online advertising technologies, software, and hardware. It is well-known for its search engine, which is the most widely used on the web, providing fast and relevant search results based on complex algorithms. Beyond its core search capabilities, Google offers a diverse range of products and services, such as Google Maps, YouTube, Android, and Google Cloud, making it one of the most influential companies in the tech industry."
   },
   "apple": {
-    "logo": "https://raw.githubusercontent.com/BachErik/killedby.json/main/config/apple-logo.png"
+    "logo": "https://raw.githubusercontent.com/BachErik/killedby.json/main/config/apple-logo.png",
+    "description": "Apple Inc. is a major American technology company known for its innovative hardware, software, and services. It is best known for its series of personal electronics, including the iPhone, iPad, and Mac computers, as well as software such as iOS, macOS, and the iTunes media player. Apple's commitment to design and functionality has made it a leader in the tech industry, influencing aesthetics and technology trends worldwide."
   }
 }
