@@ -7,6 +7,10 @@
     "logo": "https://raw.githubusercontent.com/BachErik/killedby.json/main/config/apple-logo.png",
     "description": "Apple Inc. is a major American technology company known for its innovative hardware, software, and services. It is best known for its series of personal electronics, including the iPhone, iPad, and Mac computers, as well as software such as iOS, macOS, and the iTunes media player. Apple's commitment to design and functionality has made it a leader in the tech industry, influencing aesthetics and technology trends worldwide."
   },
+  "microsoft": {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg",
+    "description": "Microsoft is a leading global technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, and personal computers. Known for its Windows operating systems and Office productivity suite, Microsoft plays a pivotal role in both personal computing and enterprise environments. The company has also expanded into cloud computing with its Azure platform, gaming with the Xbox series, and professional networking through its acquisition of LinkedIn."
+  },
   "BachErik": {
     "logo": "https://avatars.githubusercontent.com/u/75324423?v=4",
     "description": ""
