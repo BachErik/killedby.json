@@ -5,8 +5,8 @@
         "link": "https://ankilang.bacherik.de",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2024.06.05",
-        "dateClose": "2024.06.08"
+        "dateOpen": "2024-06-05",
+        "dateClose": "2024-06-08"
     },
     {
         "name": "Websitetool",
@@ -14,8 +14,8 @@
         "link": "https://github.com/BachErik/Websitetool",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2023.01.31",
-        "dateClose": "2023.03.20"
+        "dateOpen": "2023-01-31",
+        "dateClose": "2023-03-20"
     },
     {
         "name": "PABW",
@@ -23,8 +23,8 @@
         "link": "https://github.com/BachErik/PABW",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2022.12.20",
-        "dateClose": "2023.03.18"
+        "dateOpen": "2022-12-20",
+        "dateClose": "2023-03-18"
     },
     {
         "name": "WinDoofOS",
@@ -32,8 +32,8 @@
         "link": "https://github.com/BachErik/WinDoofOS",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2022.01.14",
-        "dateClose": "2023.03.18"
+        "dateOpen": "2022-01-14",
+        "dateClose": "2023-03-18"
     },
     {
         "name": "PC",
@@ -41,8 +41,8 @@
         "link": "https://github.com/BachErik/PC",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2024.06.08",
-        "dateClose": "2024.06.09"
+        "dateOpen": "2024-06-08",
+        "dateClose": "2024-06-09"
     },
     {
         "name": "Partner-Bot",
@@ -50,8 +50,8 @@
         "link": "https://github.com/BachErik/Partner-Bot",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2022.03.17",
-        "dateClose": "2023.02.19"
+        "dateOpen": "2022-03-17",
+        "dateClose": "2023-02-19"
     },
     {
         "name": "BanSystem",
@@ -59,8 +59,8 @@
         "link": "https://github.com/BachErik-Team/BanSystem",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2023.09.08",
-        "dateClose": "2024.01.08"
+        "dateOpen": "2023-09-08",
+        "dateClose": "2024-01-08"
     },
     {
         "name": "TwitchTube",
@@ -68,7 +68,7 @@
         "link": "https://github.com/TwitchTube",
         "type": "software",
         "company": "BachErik",
-        "dateOpen": "2024.03.03",
-        "dateClose": "2024.??.??"
+        "dateOpen": "2024-03-03",
+        "dateClose": "2024-04-01"
     }
 ]
