@@ -1,0 +1,8 @@
+{
+  "google": {
+    "logo": "https://www.google.com/images/branding/googleg/1x/googleg_standard_color_128dp.png"
+  },
+  "apple": {
+    "logo": "https://raw.githubusercontent.com/BachErik/killedby.json/main/config/apple-logo.png"
+  }
+}
