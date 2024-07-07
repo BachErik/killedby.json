@@ -1,5 +1,7 @@
 {
-  "software": "#ff0000",
-  "hardware": "#00ff00",
+  "software": "#7e22ce",
+  "hardware": "#12873d",
+  "app": "#d60e30",
+  "service": "#984d10",
   "other": "0000ff"
 }
