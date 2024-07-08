@@ -1,7 +1,7 @@
 [
     {
         "name": "AnkiLang",
-        "description": "",
+        "description": "Was intended to learn vocabulary via Netflix, etc. You should then be able to learn/practise the vocabulary using an app similar to AnkiDroid.",
         "link": "https://ankilang.bacherik.de",
         "type": "software",
         "company": "BachErik",
@@ -10,7 +10,7 @@
     },
     {
         "name": "Websitetool",
-        "description": "",
+        "description": "Should be a tool that allows you to visually design websites and then export them as code in different languages and frameworks.",
         "link": "https://github.com/BachErik/Websitetool",
         "type": "software",
         "company": "BachErik",
@@ -28,7 +28,7 @@
     },
     {
         "name": "WinDoofOS",
-        "description": "",
+        "description": "OS in Minecraft for OpenComputers.",
         "link": "https://github.com/BachErik/WinDoofOS",
         "type": "software",
         "company": "BachErik",
@@ -37,7 +37,7 @@
     },
     {
         "name": "PC",
-        "description": "",
+        "description": "A script to set a PC up in the exact same way I have.",
         "link": "https://github.com/BachErik/PC",
         "type": "software",
         "company": "BachErik",
@@ -46,7 +46,7 @@
     },
     {
         "name": "Partner-Bot",
-        "description": "",
+        "description": "Discord Bot for everything.",
         "link": "https://github.com/BachErik/Partner-Bot",
         "type": "software",
         "company": "BachErik",
@@ -55,7 +55,7 @@
     },
     {
         "name": "BanSystem",
-        "description": "",
+        "description": "Minecraft Ban, Mute plugin gor BungeeCord, recode -> Vortexban.",
         "link": "https://github.com/BachErik-Team/BanSystem",
         "type": "software",
         "company": "BachErik",
@@ -64,7 +64,7 @@
     },
     {
         "name": "TwitchTube",
-        "description": "",
+        "description": "Discord bot for Twitch and Youtube notifications",
         "link": "https://github.com/TwitchTube",
         "type": "software",
         "company": "BachErik",
