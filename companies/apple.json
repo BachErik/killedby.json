@@ -529,5 +529,14 @@
 		"name": "Apple Pay Later",
 		"type": "service",
 		"company": "apple"
+	},
+	{
+		"dateClose": "1998-02-01",
+		"dateOpen": "1993-08-02",
+		"description": "Early PDA with pen and handwriting input.",
+		"link": "https://en.wikipedia.org/wiki/MessagePad",
+		"name": "Newton MessagePad Series",
+		"type": "hardware",
+		"company": "apple"
 	}
 ]
