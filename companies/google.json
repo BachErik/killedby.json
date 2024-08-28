@@ -2599,5 +2599,14 @@
 		"description": "Goo.gl was a URL shortening service owned by Google. Initially used for Google Toolbar and Feedburner. Later launched as a separate website, goo.gl, in September 2010.",
 		"type": "service",
 		"company": "google"
+	},
+	{
+		"name": "Google cached webpages",
+		"dateOpen": "1998-09-04",
+		"dateClose": "2024-02-01",
+		"link": "https://en.wikipedia.org/wiki/Search_engine_cache",
+		"description": "Google has stopped keeping a backup of the internet by removing the 'cached' links feature on Google Search. The decision was made due to improved website loading reliability over time.",
+		"type": "service",
+		"company": "google"
 	}
 ]
