@@ -13,6 +13,6 @@ jobs:
     - name: Deploy Stage
       uses: fjogeleit/http-request-action@v1.9.2
       with:
-        url: 'https://killedby.bacherik.de/update'
+        url: 'https://latest.killedby.bacherik.de/update'
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json", "Authorization": "${{ secrets.UPDATE_TOKEN }}"}'
