@@ -10,9 +10,16 @@ jobs:
   deployment:
     runs-on: ubuntu-latest
     steps:
-    - name: Deploy Stage
+    - name: Update latest version
       uses: fjogeleit/http-request-action@v1.16.4
       with:
         url: 'https://latest.killedby.bacherik.de/update'
+        method: 'POST'
+        customHeaders: '{"Content-Type": "application/json", "Authorization": "${{ secrets.UPDATE_TOKEN }}"}'
+
+    - name: Update main version
+      uses: fjogeleit/http-request-action@v1.16.4
+      with:
+        url: 'https://killedby.bacherik.de/update'
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json", "Authorization": "${{ secrets.UPDATE_TOKEN }}"}'
