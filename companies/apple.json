@@ -538,5 +538,41 @@
     "company": "apple",
     "dateOpen": "1993-08-02",
     "dateClose": "1998-02-01"
+  },
+  {
+    "name": "iPhone SE (3rd generation)",
+    "description": "Entry-level iPhone model announced in March 2022 and removed from Apple’s lineup when iPhone 16e launched in February 2025.",
+    "link": "https://en.wikipedia.org/wiki/IPhone_SE_(3rd_generation)",
+    "type": "hardware",
+    "company": "apple",
+    "dateOpen": "2022-03-18",
+    "dateClose": "2025-02-19"
+  },
+  {
+    "name": "iPhone 14",
+    "description": "2022 iPhone model; discontinued and removed from Apple’s lineup following the iPhone 16e announcement in February 2025.",
+    "link": "https://en.wikipedia.org/wiki/IPhone_14",
+    "type": "hardware",
+    "company": "apple",
+    "dateOpen": "2022-09-16",
+    "dateClose": "2025-02-19"
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "description": "Large-screen variant of iPhone 14; discontinued and removed from Apple’s lineup following the iPhone 16e announcement in February 2025.",
+    "link": "https://en.wikipedia.org/wiki/IPhone_14",
+    "type": "hardware",
+    "company": "apple",
+    "dateOpen": "2022-10-07",
+    "dateClose": "2025-02-19"
+  },
+  {
+    "name": "Apple Home (previous architecture)",
+    "description": "Legacy Apple Home / HomeKit architecture. Support ends on 2026-02-10 (requires upgrading to the newer Apple Home architecture).",
+    "link": "https://support.apple.com/en-us/102287",
+    "type": "service",
+    "company": "apple",
+    "dateOpen": "2014-09-17",
+    "dateClose": "2026-02-10"
   }
 ]

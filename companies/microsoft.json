@@ -940,5 +940,14 @@
     "company": "microsoft",
     "dateOpen": "2017-05-10",
     "dateClose": "2024-08-31"
+  },
+  {
+    "name": "Microsoft Lens",
+    "description": "Document scanning app (formerly Office Lens). Retired from iOS and Android starting 2026-01-09; unsupported after 2026-02-09; scanning stops working by 2026-03-09.",
+    "link": "https://support.microsoft.com/en-us/topic/retirement-of-microsoft-lens-fc965de7-499d-4d38-aeae-f6e48271652d",
+    "type": "app",
+    "company": "microsoft",
+    "dateOpen": "2015-04-02",
+    "dateClose": "2026-03-09"
   }
 ]
