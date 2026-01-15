@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Update latest version
-      uses: fjogeleit/http-request-action@v1.16.5
+      uses: fjogeleit/http-request-action@v1.16.6
       with:
         url: 'https://latest.killedby.bacherik.de/update'
         method: 'POST'
         customHeaders: '{"Content-Type": "application/json", "Authorization": "${{ secrets.UPDATE_TOKEN }}"}'
 
     - name: Update main version
-      uses: fjogeleit/http-request-action@v1.16.5
+      uses: fjogeleit/http-request-action@v1.16.6
       with:
         url: 'https://killedby.bacherik.de/update'
         method: 'POST'
